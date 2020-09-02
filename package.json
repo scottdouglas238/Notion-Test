@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/scottdouglas238/Notion-Test#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "jest": "^26.4.2"
   }
 }
